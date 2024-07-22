@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orapechef.github.io/sitemap
+Sitemap: https://orapechef.github.io/app/sitemap
+Sitemap: https://orapechef.github.io/assets/sitemap
+Sitemap: https://orapechef.github.io/css/sitemap
+Sitemap: https://orapechef.github.io/includes/sitemap
+Sitemap: https://orapechef.github.io/item/sitemap
+Sitemap: https://orapechef.github.io/src/sitemap
